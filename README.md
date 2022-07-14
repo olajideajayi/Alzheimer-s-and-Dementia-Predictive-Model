@@ -19,9 +19,13 @@ Decrease in overall healthcare burden.
 Increase in activity of daily living, life span of members and quality of life.
 
 Enabled by:
+
 Model accuracy is 93%.
+
 Area Under Curve is 99%
+
 F1 Score is 93%
+
 Interventions to slow progression of Alzheimer’s disease.
 
 
